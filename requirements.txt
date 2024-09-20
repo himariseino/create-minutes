@@ -1,0 +1,6 @@
+whisper
+langchain
+requests
+openai
+python-dotenv
+langchain_community
